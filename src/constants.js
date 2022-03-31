@@ -1,4 +1,4 @@
-const CONTRACT_ADDRESS = "0xAA24afe7d71bA2A3134B89b640CB288342Fae862";
+const CONTRACT_ADDRESS = "0xc74a21Ea07423b81EE442A7eF5318506F90cfdFE";
 
 //NFT キャラクター の属性をフォーマットしてオブジェクトとして返します。
 const transformCharacterData = (characterData) => {
